@@ -109,4 +109,4 @@ echo "<h2>pedidos</h2>";
 $ped= pedidos(7);
 mostrarpedido($ped);
 mostrarbidimen($ped);
-print ("Holiiii");
+echo "Holiiii";
